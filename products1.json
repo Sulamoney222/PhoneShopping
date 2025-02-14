@@ -1,0 +1,157 @@
+
+
+{
+    "item":[
+        {
+            "sys":{"id": "1" },
+
+            "fields": {
+                "title":"TZenith Nova X1",
+                "price": 799,
+                "imageName":"sam1.jpg"
+            }
+        },
+        {
+            "sys":{"id": "2" },
+
+            "fields": {
+                "title":"iPhone 16",
+                "price": 10.99,
+                "imageName":"sam2.jpg"
+            }
+        },
+        {
+            "sys":{"id": "3" },
+
+            "fields": {
+                "title":"AeroFusion Pro 5G",
+                "price": 1299,
+                "imageName":"sam3.jpg"
+            }
+        },
+        {
+            "sys":{"id": "4" },
+
+            "fields": {
+                "title":"VividPixel Edge",
+                "price": 649,
+                "imageName":"sam4.jpg"
+            }
+        },
+        {
+            "sys":{"id": "5" },
+
+            "fields": {
+                "title":"Titan HyperMax",
+                "price":299,
+                "imageName":"sam5.jpg"
+            }
+        },
+        {
+            "sys":{"id": "6" },
+
+            "fields": {
+                "title":"PixelFlow 12 Pro",
+                "price": 949,
+                "imageName":"sam6.jpg"
+            }
+        },
+        {
+            "sys":{"id": "7" },
+
+            "fields": {
+                "title":"Solara Lume 10",
+                "price": 499,
+                "imageName":"sam7.jpg"
+            }
+        },
+        {
+            "sys":{"id": "8" },
+
+            "fields": {
+                "title":"Nimbus V9 Ultra",
+                "price": 199,
+                "imageName":"sam8.jpg"
+            }
+        },
+        {
+            "sys":{"id": "9" },
+
+            "fields": {
+                "title":"TQuantum Pulse 7 ",
+                "price":899,
+                "imageName":"sam9.jpg"
+            }
+        },
+        {
+            "sys":{"id": "10" },
+
+            "fields": {
+                "title":"Infinity Light XL",
+                "price": 1049,
+                "imageName":"sam10.jpg"
+            }
+        },
+        {
+            "sys":{"id": "11" },
+
+            "fields": {
+                "title":"Sapphire Edge Pro ",
+                "price": 150,
+                "imageName":"sam11.jpg"
+            }
+        },
+        {
+            "sys":{"id": "12" },
+
+            "fields": {
+                "title":"XenoStream Ultra",
+                "price": 799,
+                "imageName":"sam12.jpg"
+            }
+        },
+        {
+            "sys":{"id": "13" },
+
+            "fields": {
+                "title":"Rogue Phantom Z",
+                "price": 1099,
+                "imageName":"sam13.jpg"
+            }
+        },
+        {
+            "sys":{"id": "14" },
+
+            "fields": {
+                "title":"TFusionVibe 8X",
+                "price": 599,
+                "imageName":"sam14.jpg"
+            }
+        },
+        {
+            "sys":{"id": "15" },
+
+            "fields": {
+                "title":"Nebula Vision 11 ",
+                "price": 249,
+                "imageName":"sam15.jpg"
+            }
+        },
+        {
+            "sys":{"id": "16" },
+
+            "fields": {
+                "title":"FusionVibe 8X ",
+                "price":999,
+                "imageName":"sam16.jpg"
+            }
+        }
+
+
+
+
+
+
+       
+    ]
+}
